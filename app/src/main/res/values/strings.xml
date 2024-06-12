@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="login_txt">Selamat Datang di Story App</string>
+    <string name="register_txt">Register</string>
+    <string name="login_message_txt">Mohon untuk memasukkan data dibawah ini</string>
+    <string name="email">Email</string>
+    <string name="name_input">Masukkan Nama</string>
+    <string name="email_input">Masukkan Email</string>
+    <string name="password_input">Masukkan password</string>
+    <string name="login_btn">Login</string>
+    <string name="register_btn">Register</string>
+    <string name="message_welcome_page">Mau liat daftar cerita dari teman-teman yang sedang belajar dan lulus dari Dicoding? Di Story app aja!</string>
+    <string name="title_welcome_page">Selamat datang di Story App!</string>
+    <string name="register_message_txt">Mohon mengisi data dibawah ini untuk registrasi</string>
+    <string name="logout">Logout</string>
+    <string name="refresh">Refresh</string>
+    <string name="name">Nama</string>
+    <string name="description">Deskripsi</string>
+    <string name="no_story">Tidak ada cerita yang tersedia.</string>
+    <string name="error_message">Terjadi kesalahan saat mengambil data.</string>
+    <string name="upload">Upload</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="switch_camera">Switch Camera</string>
+    <string name="password_error_message">Password harus minimal 8 karakter</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="story_description">Description</string>
+    <string name="retry">Coba lagi</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="add_story">Add Story</string>
+    <string name="map">Maps</string>
+    <string name="add_location">Add Current Location</string>
+    <string name="upload_image">Upload image</string>
+    <string name="maps_title">Story With Location</string>
+    <string name="upload_title">New Story</string>
+    <string name="detail_photo">detail photo</string>
+
+
+</resources>
